@@ -1,0 +1,16 @@
+/tmp
+/knxd-examples
+/knxd-dev
+/knxd-tools
+/knxd
+/*.log
+/*.debhelper
+/*.substvars
+/knxd.udev
+/files
+/knxd.install
+/knxd.service
+/knxd.socket
+/autoreconf.after
+/autoreconf.before
+/debhelper-build-stamp
